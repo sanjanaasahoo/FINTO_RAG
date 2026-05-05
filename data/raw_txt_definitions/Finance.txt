@@ -1,0 +1,7 @@
+Repo rate is the rate at which the central bank lends money to commercial banks.
+
+Inflation is the increase in prices over time.
+
+CRR is the percentage of total deposits that banks must keep with the central bank.
+
+GDP is the total value of goods and services produced in a country.

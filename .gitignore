@@ -1,0 +1,6 @@
+.env
+*.ipynb
+vector_store/
+*.pkl
+*.bin
+__pycache__/
