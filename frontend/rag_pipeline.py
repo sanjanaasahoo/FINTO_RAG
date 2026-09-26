@@ -88,7 +88,7 @@ def rag_pipeline(query):
     """
 
     response = groq_client.chat.completions.create(
-       model=model="openai/gpt-oss-20b",
+       model="openai/gpt-oss-20b",
         messages=[{"role": "user", "content": prompt}]
     )
 
